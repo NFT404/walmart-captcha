@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a clever solution to bypass the 'Robot or human' captcha on Walmart's website using SeleniumBase—a robust automation framework. With SeleniumBase, you can automate web interactions while evading bot detection mechanisms.
+This project demonstrates a clever solution to bypass the 'Robot or human' captcha on Walmart's website using SeleniumBase a robust automation framework. With SeleniumBase, you can automate web interactions while evading bot detection mechanisms.
 
 ## How It Works
 
