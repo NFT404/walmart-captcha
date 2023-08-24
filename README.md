@@ -29,7 +29,7 @@ The key to solving the Walmart captcha lies in SeleniumBase's capabilities. By u
 This code essentially opens the Walmart 'blocked' page and continuously clicks on the specified captcha element, designed to bypass Walmart's captcha protection as discussed earlier. The script will keep running until manually interrupted. 🚀
 
 
-![Alt Text](https://giphy.com/gifs/7un4GZSOR6SAAKg8rB)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHducnZoNHBpZjV0ZjNsc2FxbjJibnFjYmhjOWszaW0wZm9mMzV3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7un4GZSOR6SAAKg8rB/giphy.gif)
 
 
 
